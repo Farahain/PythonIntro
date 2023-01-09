@@ -3,7 +3,7 @@
 📅 15/1/2023
 🏛️ UTM
 
-<img src=https://padlet.com/f4r4/pythonintro/wish/2301228683 width="300">
+<img src=https://github.com/Farahain/python_intro/blob/main/PosterPythonUtm.jpeg width="300">
 
 
 
