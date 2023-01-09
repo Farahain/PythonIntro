@@ -1,6 +1,6 @@
-# PYTHON WORKSHOP FOR DATA ANALYSIS
+#Python Programming: Introduction and Database
 
-📅 11/10/2022
+📅 15/1/2023
 🏛️ UTM
 
 <img src=https://science.utm.my/wp-content/uploads/2022/10/12.jpg width="300">
